@@ -17,5 +17,6 @@ public class App
         System.out.println("master 冲突合并");
         System.out.println("-----------");
         System.out.println("hot-fix 冲突合并");
+        System.out.println("push test");
     }
 }
