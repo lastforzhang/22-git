@@ -18,5 +18,7 @@ public class App
         System.out.println("-----------");
         System.out.println("hot-fix 冲突合并");
         System.out.println("push test");
+        int i = 0;
+        int j = 1;
     }
 }
